@@ -1,5 +1,7 @@
-### Hi there , I'm Nimish :)
+#Hi there , I'm Nimish :)
 
+###Interested in learning new things.
+<hr>
 [![Website](https://img.shields.io/website?label=nimish1001.github.io&style=for-the-badge&url=https%3A%2F%2Fnimish1001.github.io)](https://nimish1001.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NimishVithalani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNimishVithalani&screen_name=NimishVithalani)
 
@@ -15,7 +17,7 @@
 - ⚡ Fun fact: ...  -->
 
 ### Connect with me:
-
+<hr>
 [<img align="left" alt="nimish1001.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nimish Vithalani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nimish Vithalani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,7 +31,7 @@
 <br />
 
 ### Languages and Tools:
-
+<hr>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
