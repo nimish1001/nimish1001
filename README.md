@@ -37,4 +37,7 @@
 <br />
 
 
-  <img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nimish1001&show_icons=true&hide_border=true&color=purple" />
+  <img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nimish1001&count_private=true&show_icons=true&theme=tokyonight" />
+  <br/>
+<img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvinaik13&layout=compact&theme=tokyonight&card_width=445" />
+  
