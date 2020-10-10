@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="35px" src="https://lh3.googleusercontent.com/proxy/E_YKthyS-_JJRsgfcznR9kaQwYBsJeEArZWm7bi5f02yK246SpjzI9-U14hflkrrYZNl38tVlHpA3tT9NostTp3EnbRO44QJhoN4gApBFJv8qLFcBzeRbLYw-T49l-hrTz0" />
+<img align="left" alt="Python" width="35px" src="unnamed.png" />
 <img align="left" alt="Java" width="35px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-logo.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
