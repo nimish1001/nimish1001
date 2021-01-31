@@ -19,14 +19,6 @@
 
 <br />
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
 <img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nimish1001&count_private=true&show_icons=true&theme=tokyonight" />
   <br/>
 <img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish1001&layout=compact&theme=tokyonight&card_width=445" />
