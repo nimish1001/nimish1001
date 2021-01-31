@@ -26,7 +26,6 @@
 <img align="left" alt="nimish1001's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish1001&layout=compact&theme=tokyonight&card_width=445" />
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nimish1001&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish1001&theme=dark" />
 </p>
   
