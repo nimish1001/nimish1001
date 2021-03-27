@@ -3,7 +3,7 @@
 ### Interested in Web development and a Mathphile.
 
 [![Website](https://img.shields.io/website?label=nimish1001.github.io&style=for-the-badge&url=https%3A%2F%2Fnimish1001.github.io)](https://nimish1001.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/NimishVithalani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNimishVithalani&screen_name=NimishVithalani)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NimishVithalani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnimishv_10&screen_name=nimishv_10)
 
 ### Connect with me:
 
