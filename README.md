@@ -12,10 +12,10 @@
 [<img align="left" alt="Nimish Vithalani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nimish Vithalani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://nimish1001.github.io
-[twitter]: https://twitter.com/NimishVithalani
+[website]: https://tracer.syscape.live
+[twitter]: https://twitter.com/nimishv_10
 [linkedin]: https://www.linkedin.com/in/nimish-vithalani-466587174/
-[instagram]: https://linkedin.com/in/nimishv_10
+[instagram]: https://www.instagram.com/nimishv_10/
 
 <br />
 <br />
